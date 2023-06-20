@@ -1,0 +1,30 @@
+{
+  "name": "html-list-builder",
+  "version": "1.0.0",
+  "description": "An npm package for creating ordered and unordered lists in HTML with class and id attributes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/html-list-builder.git"
+  },
+  "keywords": [
+    "html",
+    "list",
+    "builder",
+    "npm",
+    "package"
+  ],
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/html-list-builder/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/html-list-builder#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  }
+}
